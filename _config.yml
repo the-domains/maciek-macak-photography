@@ -1,0 +1,28 @@
+name: Maciek Macak Photography
+favicon: null
+layout_spectrum: 0.9107043107505888
+typography_spectrum: 0.2990871674846858
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.20144270383752882
+  lightness: 0.8370782847050577
+  saturation: 0.7750556031242013
+  rhythmicContrast: 0.8121536374092102
+purpose: []
